@@ -1,0 +1,7 @@
+com\sample\test\demo\service\TaskService.class
+com\sample\test\demo\SwaggerConfig.class
+com\sample\test\demo\model\TaskDetails.class
+com\sample\test\demo\model\Status.class
+com\sample\test\demo\SpringbootApplication.class
+com\sample\test\demo\repo\TaskRepository.class
+com\sample\test\demo\web\TaskController.class
