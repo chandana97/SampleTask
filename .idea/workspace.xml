@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93b20667-7db3-449b-9d41-3eb60bf85907" name="Default Changelist" comment="Testcase changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenkinsfile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/jenkinsfile.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +143,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testcase changes" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="404" y="155" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614072217052">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="404" y="155" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1614072217052" />
     <state x="396" y="54" key="#xdebugger.evaluate" timestamp="1614056322368">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
