@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93b20667-7db3-449b-9d41-3eb60bf85907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/test/demo/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/test/demo/service/TaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/test/demo/web/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/test/demo/web/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/test/demo/service/TaskServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/test/demo/service/TaskServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sample/test/demo/service/TaskServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sample/test/demo/service/TaskServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -57,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringbootApplication">
+  <component name="RunManager" selected="JUnit.TaskServiceTest.createTaskTest">
     <configuration name="SpringbootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.SpringbootApplication" />
       <module name="SampleTestProject" />
@@ -87,6 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskServiceTest.createTaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SampleTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.test.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sample.test.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sample.test.demo.service.TaskServiceTest" />
+      <option name="METHOD_NAME" value="createTaskTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskServiceTest.getTaskDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SampleTestProject" />
       <extension name="coverage">
@@ -105,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TaskServiceTest.createTaskTest" />
         <item itemvalue="Application.SpringbootApplication" />
         <item itemvalue="JUnit.TaskServiceTest.getTaskDetails" />
         <item itemvalue="JUnit.TaskServiceTest.createTask" />
@@ -129,26 +145,34 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="396" y="54" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1614056322368" />
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1614060897892">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1614060897892" />
+    <state x="121" y="51" key="DiffContextDialog" timestamp="1614060863180">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="51" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1614060863180" />
     <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1614006776555">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1614006776555" />
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom" timestamp="1614059251169">
+    <state width="1237" height="148" key="GridCell.Tab.0.bottom" timestamp="1614060306747">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1614059251169" />
-    <state width="1237" height="172" key="GridCell.Tab.0.center" timestamp="1614059251168">
+    <state width="1237" height="148" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1614060306747" />
+    <state width="1237" height="148" key="GridCell.Tab.0.center" timestamp="1614060306746">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1614059251168" />
-    <state width="1237" height="172" key="GridCell.Tab.0.left" timestamp="1614059251168">
+    <state width="1237" height="148" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1614060306746" />
+    <state width="1237" height="148" key="GridCell.Tab.0.left" timestamp="1614060306746">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1614059251168" />
-    <state width="1237" height="172" key="GridCell.Tab.0.right" timestamp="1614059251168">
+    <state width="1237" height="148" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1614060306746" />
+    <state width="1237" height="148" key="GridCell.Tab.0.right" timestamp="1614060306746">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1614059251168" />
+    <state width="1237" height="148" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1614060306746" />
     <state width="1237" height="277" key="GridCell.Tab.1.bottom" timestamp="1614056334930">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -187,12 +211,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/sample/test/demo/service/TaskServiceTest.java</url>
-          <line>54</line>
+          <line>48</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/sample/test/demo/service/TaskServiceTest.java</url>
-          <line>56</line>
+          <line>50</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

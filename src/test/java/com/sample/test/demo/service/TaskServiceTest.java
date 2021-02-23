@@ -16,6 +16,7 @@ import org.springframework.util.Assert;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
@@ -42,13 +43,6 @@ class TaskServiceTest {
         taskDetailsList=new ArrayList<>();
         taskDetailsList.add(taskDetails);
     }
-
-//    @org.junit.jupiter.api.Test
-//    void createTask() {
-//     when(taskRepository.save(any())).thenReturn(taskDetailsList);
-//     taskService.createTask(taskDetails);
-//       // Assertions.assertEquals(taskDetails,taskService.createTask(taskDetails));
-//    }
 
     @org.junit.jupiter.api.Test
     void getTaskDetails() {
