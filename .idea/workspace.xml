@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93b20667-7db3-449b-9d41-3eb60bf85907" name="Default Changelist" comment="Testcase changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.tf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
