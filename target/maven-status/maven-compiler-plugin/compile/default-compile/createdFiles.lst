@@ -1,3 +1,4 @@
+com\sample\test\demo\exception\ResourceNotFoundException.class
 com\sample\test\demo\service\TaskService.class
 com\sample\test\demo\SwaggerConfig.class
 com\sample\test\demo\model\TaskDetails.class
