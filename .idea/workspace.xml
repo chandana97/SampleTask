@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93b20667-7db3-449b-9d41-3eb60bf85907" name="Default Changelist" comment="Testcase changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid16908.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid1700.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleTestProject-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,26 +160,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="121" y="51" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1614339563692" />
-    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1614341627035">
+    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1614343877817">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1614341627035" />
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1614343666880">
+    <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1614343877817" />
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1614351622980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1614343666880" />
-    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1614343666879">
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1614351622980" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1614351622980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1614343666879" />
-    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1614343666879">
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1614351622980" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1614351622980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1614343666879" />
-    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1614343666879">
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1614351622980" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1614351622980">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1614343666879" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1614351622980" />
     <state width="1237" height="277" key="GridCell.Tab.1.bottom" timestamp="1614101912096">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -218,9 +212,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="412" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1614006754836" />
-    <state x="90" y="49" key="new project wizard" timestamp="1614333352729">
+    <state x="90" y="49" key="new project wizard" timestamp="1614343884657">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="90" y="49" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1614333352729" />
+    <state x="90" y="49" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1614343884657" />
   </component>
 </project>

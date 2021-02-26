@@ -82,5 +82,10 @@ public class TaskController {
         this.taskService.deleteTask(id);
         return HttpStatus.OK;
     }
+    @RequestMapping("/")
+    public String hello()
+    {
+        return "Hello world";
+    }
 
 }
